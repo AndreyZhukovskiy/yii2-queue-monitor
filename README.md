@@ -4,9 +4,10 @@ Yii2 Queue Analytics Module (PHP 8+)
 The module collects statistics about working of queues of an application, and provides web interface
 for research. Also the module allows to stop and replay any jobs manually.
 
-[![Latest Stable Version](https://poser.pugx.org/andrey-zhukovskiy/yii2-queue-monitor/v/stable.svg)](https://packagist.org/packages/andrey-zhukovskiy/yii2-queue-monitor)
-[![Total Downloads](https://poser.pugx.org/andrey-zhukovskiy/yii2-queue-monitor/downloads.svg)](https://packagist.org/packages/andrey-zhukovskiy/yii2-queue-monitor)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/andrey-zhukovskiy/yii2-queue-monitor/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/andrey-zhukovskiy/yii2-queue-monitor/?branch=master)
+[![License](https://poser.pugx.org/andrey-zhukovskiy/yii2-queue-monitor/license)](https://github.com/andrey-zhukovskiy/yii2-aws-s3/blob/2.x/LICENSE) 
+[![Latest Stable Version](https://poser.pugx.org/andrey-zhukovskiy/yii2-queue-monitor/v)](//packagist.org/packages/andrey-zhukovskiy/yii2-queue-monitor) 
+[![Total Downloads](https://poser.pugx.org/andrey-zhukovskiy/yii2-queue-monitor/downloads)](//packagist.org/packages/andrey-zhukovskiy/yii2-queue-monitor) 
+[![Latest Unstable Version](https://poser.pugx.org/andrey-zhukovskiy/yii2-queue-monitor/v/unstable)](//packagist.org/packages/andrey-zhukovskiy/yii2-queue-monitor)
 
 Installation
 ------------
