@@ -1,5 +1,5 @@
 {
-    "name": "zhuravljov/yii2-queue-monitor",
+    "name": "andrey-zhukovskiy/yii2-queue-monitor",
     "description": "Yii2 Queue Analytics Module",
     "type": "yii2-extension",
     "keywords": ["yii", "queue", "analytics", "module"],
