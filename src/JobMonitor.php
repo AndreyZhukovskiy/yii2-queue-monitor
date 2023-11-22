@@ -159,7 +159,7 @@ class JobMonitor extends Behavior
      */
     public function afterExec(ExecEvent $event)
     {
-        if (!$this->isActive($event->job)) {
+        if ($event->job !== null && !$this->isActive($event->job)) {
             return;
         }
         $push = static::$startedPush ?: $this->getPushRecord($event);
